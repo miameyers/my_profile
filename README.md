@@ -10,7 +10,7 @@ With skills like critical thinking, problem solving, and communication I am able
 
 My extensive skill set, commitment to understanding my clients and a passion for their quality of mental health makes me a valuable asset. In my spare time I like to read books and spend time with those close to me. 
 
-You can find me at www.linkedin.com/in mia-meyers-4973a6393
+You can find me at **[LinkdeIn](www.linkedin.com/in mia-meyers-4973a6393)**
 
 
 ### Education 
