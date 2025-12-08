@@ -1,8 +1,7 @@
 ![banner picture](assets/banner.jpg)
 # Mia Meyers
-Contact Info: memeyers@loyola.edu 
+Contact Info: memeyers@loyola.edu
 memeyers156@gmail.com
-443-844-8648
 
 ### About Me 
 Hello! I am an experienced Psychologist with over 7 years of proven expertise in psychological diagnosis through counseling. 
