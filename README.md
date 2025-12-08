@@ -31,6 +31,8 @@ Loyola University Maryland, Psychology B.A.
  - Other Resources: I asked my friends to input their own grades and assignments weights to make sure the results were seamless. 
 
  - Result: By the end of my project, I was able to successfully create a grade calculator that produced your final grade average both weighted and unweighted while also providing the letter grade. One thing I would try to improve on in the future is making the code less diluted and complicated. I think on some parts I put more content than I needed. 
+
+ Link to project: **[Grade Calculator](https://www.jdoodle.com/ga/lLhjDzJpJ05PTWFw2ifPnA%3D%3D)**
  
 ***
 #### Inventory Manager
@@ -47,6 +49,8 @@ Loyola University Maryland, Psychology B.A.
  - Other Resources: I did not use any other resources
 
  - Result:  This project allowed for me to learn more about the inner workings of a business and helped me be more organized. To improve this, I would try to add more columns to provide more depth into the business model.
+
+ Linkt to Project: **[Inventory Manager]( https://studentsloyola-my.sharepoint.com/:x:/g/personal/memeyers_loyola_edu/IQDhm5O56RDbQq-Ru7Lthh-oAeS-mNZjUWim3ycX12HMWdc?e=uiwMOQ)**
  
 ***
 #### Budget Tracker
@@ -63,4 +67,6 @@ Loyola University Maryland, Psychology B.A.
  - Other Resources: I did not use other resources for this project.
 
  - Result: This budget tracker helps the user to achieve responsible and efficient spending and saving. By adding functions that change as the user inserts different amounts it is very user friendly to operate and has a simple design. To improve it I would add more sections for spending and saving for specific things.
+
+ Link to project: **[Budget Tracker](https://studentsloyola-my.sharepoint.com/:x:/g/personal/memeyers_loyola_edu/IQDhm5O56RDbQq-Ru7Lthh-oAeS-mNZjUWim3ycX12HMWdc?e=iEdEN1)**
  
