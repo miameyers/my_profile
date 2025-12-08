@@ -1,3 +1,4 @@
+![banner picture](assets/banner.jpg)
 # Mia Meyers
 Contact Info: memeyers@loyola.edu 
 memeyers156@gmail.com
@@ -20,7 +21,7 @@ Loyola University Maryland, Psychology B.A.
 #### Grade Calculator
  - Summary: This Grade Calculator which was using Python coding in the Jdoodle software provides unweighted and weighted averages based on quiz and assessment weights.
 
- - [insert project 1 screenshot here]
+ ![grade calc](assets/gradecalc.png)
 
  - Initial project idea: This project was created to figure out what my grade would be based on the weight and grade that I got on certain assignments in my courses. Sometimes it is difficult to figure out your overall grade when all you have are assignments and their weights. This project can help to provide the user with their overall grade for a course and its use of individual assignment grades could help the user find out what they need to improve on.
 
@@ -36,7 +37,7 @@ Loyola University Maryland, Psychology B.A.
 #### Inventory Manager
  - Summary: This inventory manager is through and Microsoft Excel. It logs all of the information regarding the costs and characteristics of certain items that a business would sell. 
 
- - [insert project 2 screenshot here]
+![invent manager](assets/inventmanage.png)
 
  - Initial project idea: This project helps to keep track of the inventory of a business which could be a side hustle. If you would have a side hustle you would need to keep trac k of your items and the profit.  The problem I set out to solve with this project was if I should increase the profit margin for the items or not. The excel equations I inserted determined this for me so that I could know how to operate my business in the most efficient and successful way. 
 
@@ -52,7 +53,7 @@ Loyola University Maryland, Psychology B.A.
 #### Budget Tracker
  - Summary: This project is a Budget tracker that uses your income and the money you have saved as well as your personal costs. This helps give perspective to your spending and what it is on. 
 
- - [insert project 3 screenshot here]
+ ![budget tracker](assets/budgettracker.png)
 
  - Initial project idea: This project tracks spending and income so that you can successfully budget and use your money in an efficient way. This solves the problem of overspending or being irresponsible with what purchases you prioritize. 
 
