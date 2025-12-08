@@ -37,7 +37,7 @@ Loyola University Maryland, Psychology B.A.
 #### Inventory Manager
  - Summary: This inventory manager is through and Microsoft Excel. It logs all of the information regarding the costs and characteristics of certain items that a business would sell. 
 
-![invent manager](assets/inventmanage.png)
+![managerfixed](assets/manger fixed.png)
 
  - Initial project idea: This project helps to keep track of the inventory of a business which could be a side hustle. If you would have a side hustle you would need to keep trac k of your items and the profit.  The problem I set out to solve with this project was if I should increase the profit margin for the items or not. The excel equations I inserted determined this for me so that I could know how to operate my business in the most efficient and successful way. 
 
@@ -53,7 +53,7 @@ Loyola University Maryland, Psychology B.A.
 #### Budget Tracker
  - Summary: This project is a Budget tracker that uses your income and the money you have saved as well as your personal costs. This helps give perspective to your spending and what it is on. 
 
- ![budget tracker](assets/budgettracker.png)
+![budgettracking](assets/tracker fixed.png)
 
  - Initial project idea: This project tracks spending and income so that you can successfully budget and use your money in an efficient way. This solves the problem of overspending or being irresponsible with what purchases you prioritize. 
 
