@@ -32,7 +32,7 @@ Loyola University Maryland, Psychology B.A.
 
  - Result: By the end of my project, I was able to successfully create a grade calculator that produced your final grade average both weighted and unweighted while also providing the letter grade. One thing I would try to improve on in the future is making the code less diluted and complicated. I think on some parts I put more content than I needed. 
 
- Link to project: **[Grade Calculator](https://www.jdoodle.com/ga/lLhjDzJpJ05PTWFw2ifPnA%3D%3D)**
+ Link to project: **[Grade Calculator](https://www.jdoodle.com/ia/1O3i)**
  
 ***
 #### Inventory Manager
