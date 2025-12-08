@@ -50,7 +50,7 @@ Loyola University Maryland, Psychology B.A.
 
  - Result:  This project allowed for me to learn more about the inner workings of a business and helped me be more organized. To improve this, I would try to add more columns to provide more depth into the business model.
 
- Linkt to Project: **[Inventory Manager]( https://studentsloyola-my.sharepoint.com/:x:/g/personal/memeyers_loyola_edu/IQDhm5O56RDbQq-Ru7Lthh-oAeS-mNZjUWim3ycX12HMWdc?e=uiwMOQ)**
+ Linkt to Project: **[Inventory Manager](https://studentsloyola-my.sharepoint.com/:x:/r/personal/memeyers_loyola_edu/_layouts/15/doc2.aspx?sourcedoc=%7BB9939BE1-10E9-42DB-AF91-BBB2ED861FA8%7D&file=Inventory%20Manager.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=APPHOME-WEB.DIRECT%2CAPPHOME-WEB.JUMPBACKIN&wdPreviousSession=7bc3fb08-b99c-47bf-b367-3e5e139485e8&wdPreviousSessionSrc=AppHomeWeb&ct=1765207438293)**
  
 ***
 #### Budget Tracker
@@ -68,5 +68,5 @@ Loyola University Maryland, Psychology B.A.
 
  - Result: This budget tracker helps the user to achieve responsible and efficient spending and saving. By adding functions that change as the user inserts different amounts it is very user friendly to operate and has a simple design. To improve it I would add more sections for spending and saving for specific things.
 
- Link to project: **[Budget Tracker](https://studentsloyola-my.sharepoint.com/:x:/g/personal/memeyers_loyola_edu/IQDhm5O56RDbQq-Ru7Lthh-oAeS-mNZjUWim3ycX12HMWdc?e=iEdEN1)**
+ Link to project: **[Budget Tracker](https://studentsloyola-my.sharepoint.com/:x:/r/personal/memeyers_loyola_edu/_layouts/15/doc2.aspx?sourcedoc=%7BB9939BE1-10E9-42DB-AF91-BBB2ED861FA8%7D&file=Inventory%20Manager.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=APPHOME-WEB.DIRECT%2CAPPHOME-WEB.JUMPBACKIN&wdPreviousSession=7bc3fb08-b99c-47bf-b367-3e5e139485e8&wdPreviousSessionSrc=AppHomeWeb&ct=1765207438293)**
  
