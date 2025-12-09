@@ -36,7 +36,7 @@ Loyola University Maryland, Psychology B.A.
  
 ***
 #### Inventory Manager
- - Summary: This inventory manager is through and Microsoft Excel. It logs all of the information regarding the costs and characteristics of certain items that a business would sell. 
+ - **Summary:** This inventory manager is through and Microsoft Excel. It logs all of the information regarding the costs and characteristics of certain items that a business would sell. 
 
 ![managerfixed](assets/manger fixed.png)
 
